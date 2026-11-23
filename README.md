@@ -34,4 +34,4 @@ I build web and mobile applications, with a focus on Python/Django backend devel
 - **GitHub:** [github.com/isaacini23](https://github.com/isaacini23)
 - **Email:** iniisaac2@gmail.com
 
-* some repositories are works in progress and may not yet be production-ready.*
+*Note: Some repositories are works in progress and may not yet be production-ready.*
